@@ -1,10 +1,10 @@
 <h1>Hi, I'm Sergio!<br/>
+  <a>Cybersecurity Professional<h1/>
+<!---"https://github.com/sva12000/sergio"</a>,
  
- <a>"https://github.com/sva12000/sergio"</a>,
+<!--- href="https://www.linkedin.com/in/sergio-vera-5a363735/"<br/>
  
- href="https://www.linkedin.com/in/sergio-vera-5a363735/"<br/>
- 
- <a>Cybersecurity Professional</a> 
+ <a>Cybersecurity Professional<h1/>
  
  <a href="https://www.youtube.com"></a></h1>
 <h2>👨‍💻 Cyber Security and Cloud Platforms Projects:</h2>
