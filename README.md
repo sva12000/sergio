@@ -1,4 +1,12 @@
-<h1>Hi, I'm Sergio! <br/><a href="https://github.com/sva12000/sergio">Consultant</a>, <a href="https://www.linkedin.com/in/sergio-vera-5a363735/">Cybersecurity Professional</a> <a href="https://www.youtube.com"></a></h1>
+<h1>Hi, I'm Sergio!<br/>
+ 
+ <a>"https://github.com/sva12000/sergio"</a>,
+ 
+ href="https://www.linkedin.com/in/sergio-vera-5a363735/"<br/>
+ 
+ <a>Cybersecurity Professional</a> 
+ 
+ <a href="https://www.youtube.com"></a></h1>
 <h2>👨‍💻 Cyber Security and Cloud Platforms Projects:</h2>
 - <b>On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice (In Construction)</b>
 <!---- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) --->
