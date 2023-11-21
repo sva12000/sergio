@@ -1,18 +1,11 @@
-<h1>Hi, I'm Sergio!<br/>
-  <a>Cybersecurity Professional<h1/>
+<h1>Hi, I'm Sergio! <br/><a href="[(https://github.com/sva12000/sergiovera)>Cyber Security</a>, <a href="https://www.linkedin.com/in/sergio-vera-5a363735/">Cybersecurity Professional</a></h1>
 
+<h2> Security and Cloud Platforms Projects:</h2>
 
-
-    
-<!---"https://github.com/sva12000/sergio"</a>,
+- <b>PowerShell</b>
+  - [On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice](https://github.com/sergiovera/On-PremiseMigration-to-MultiCloud)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sergiovera/Sentinel-Lab)
  
-<!--- href="https://www.linkedin.com/in/sergio-vera-5a363735/"<br/>
- 
- <a>Cybersecurity Professional<h1/>
- 
- <a href="https://www.youtube.com"></a></h1>
-<h2> Software Development and Cloud Platforms Projects:</h2>
-- <b>On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice (In Construction)</b>
 <!---- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) --->
 <!----- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b> ---> 
  <!----- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -37,11 +30,11 @@
 <h2> 🤳 Connect with me:</h2>
 <!-----[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <!-----[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-----[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SergioVera  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-----[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-----[twitter]: https://twitter.com/joshmadakor
 <!-----[youtube]: https://www.youtube.com/c/joshmadakor
 <!-----[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/sergio-vera-5a363735/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**sva12000/sergiovera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
