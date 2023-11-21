@@ -32,8 +32,8 @@
 <!-----[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SergioVera  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-----[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-----[twitter]: https://twitter.com/joshmadakor
-<!-----[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/sva12000
+
 <!-----[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/sergio-vera-5a363735/
 
