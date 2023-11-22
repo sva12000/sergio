@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sergio! <br/><a href="https://github.com/sva12000/sergiovera"></a> <a href="https://www.linkedin.com/in/sergio-vera-5a363735//">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Sergio! <br/><a href="https://github.com/sva12000/sergiovera"></a> <a href="https://www.linkedin.com/in/sergio-vera-5a363735//">Cybersecurity Professional</a> </h1>
 
 
 <h2> Security and Cloud Platforms Projects:</h2>
