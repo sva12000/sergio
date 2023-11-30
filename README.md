@@ -3,7 +3,7 @@
 
 <h2> CyberSecurity and Cloud Platforms Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>PowerShell  (Terraform & Ansible IaC)</b>
  
    - [On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice](https://github.com/sva12000/On-PremiseMigration-to-MultiCloud)
    - [Failed RDP Logins (RDP Brute Force) Map in Azure Sentinel](https://github.com/sva12000/SIEM--Sentinel-Lab/)
