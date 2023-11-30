@@ -5,7 +5,7 @@
 
 - <b>PowerShell</b>
 - [On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice](https://github.com/sergiovera/On-PremiseMigration-to-MultiCloud)
-- [Failed RDP Logins (RDP Brute Force) Map in Azure Sentinel](https://github.com/sergiovera/Sentinel-Lab)
+- [Failed RDP Logins (RDP Brute Force) Map in Azure Sentinel](https://github.com/sva12000/SIEM--Sentinel-Lab/)
  
 
 
