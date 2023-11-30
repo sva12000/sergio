@@ -4,7 +4,7 @@
 <h2> Security and Cloud Platforms Projects:</h2>
 
 - <b>PowerShell</b>
-- [On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice (https://github.com/sergiovera/On-PremiseMigration-to-MultiCloud)]
+- [On-Premise's Data Migration to GCP & AWS Multi-Cloud Platforms Practice](https://github.com/sergiovera/On-PremiseMigration-to-MultiCloud)
 - [Failed RDP Logins (RDP Brute Force) Map in Azure Sentinel](https://github.com/sergiovera/Sentinel-Lab)
  
 
